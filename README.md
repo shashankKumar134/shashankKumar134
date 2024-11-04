@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Shashank Kumar! 👋
 
-Welcome to my GitHub profile! I'm a [Your Role, e.g., Software Developer, Data Scientist] with a passion for building solutions that make a difference. I enjoy diving into challenging problems, experimenting with new technologies, and constantly pushing my skills forward.
+Welcome to my GitHub profile! I'm a Student with a passion for building solutions that make a difference. I enjoy diving into challenging problems, experimenting with new technologies, and constantly pushing my skills forward.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
