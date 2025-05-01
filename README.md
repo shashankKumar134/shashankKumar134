@@ -11,21 +11,17 @@ Welcome to my GitHub profile! I'm a Student with a passion for building solution
 
 
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
 ## 🌱 What I'm Currently Working On
 - [Project 1: Brief description](https://github.com/YourGitHubUsername/Project1)
 - [Project 2: Brief description](https://github.com/YourGitHubUsername/Project2)
   
 ## 📚 Recent Learning Focus
 Currently exploring:
-- [ ] [Tech 1 you're learning]
-- [ ] [Tech 2 you're learning]
+- [ ] [NextJs]
+- [ ] [Hono]
   
 ## 📫 Get in Touch!
-- **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/yourprofile)
-- **Email:** youremail@example.com
+- **LinkedIn:** [Your LinkedIn URL]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shashank-kumar-b663192aa/))
+- **Email:** Shashankghost2004@gmail.com
 
 Thanks for stopping by! Let's connect and build something amazing. 🚀
