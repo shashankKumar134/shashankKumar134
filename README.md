@@ -12,9 +12,8 @@ Welcome to my GitHub profile! I'm a Student with a passion for building solution
 
 
 ## 🌱 What I'm Currently Working On
-- [Project 1: Brief description](https://github.com/YourGitHubUsername/Project1)
-- [Project 2: Brief description](https://github.com/YourGitHubUsername/Project2)
-  
+- [Full Stack chatting application: https://github.com/shashankKumar134/fullstack-chat-app]
+- [Video Calling app: https://github.com/shashankKumar134/Online-Video-Calling-App]
 ## 📚 Recent Learning Focus
 Currently exploring:
 - [ ] [NextJs]
