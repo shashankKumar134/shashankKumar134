@@ -21,7 +21,7 @@ Currently exploring:
 - [ ] [Hono]
   
 ## 📫 Get in Touch!
-- **LinkedIn:** [Your LinkedIn URL]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shashank-kumar-b663192aa/))
+- **LinkedIn:** [[Your LinkedIn URL](https://www.linkedin.com/in/shashank-kumar-b663192aa/)]
 - **Email:** Shashankghost2004@gmail.com
 
 Thanks for stopping by! Let's connect and build something amazing. 🚀
